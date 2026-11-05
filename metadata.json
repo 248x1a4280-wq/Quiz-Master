@@ -1,0 +1,6 @@
+{
+  "name": "QuizMaster – Interactive Quiz Application",
+  "description": "Professional Android Quiz Application built with Flutter, Dart, Provider state management, and Open Trivia Database API integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
